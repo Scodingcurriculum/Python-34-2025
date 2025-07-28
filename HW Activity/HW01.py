@@ -1,0 +1,17 @@
+#Start code here
+from turtle import *
+screen = Screen()
+turtle = Turtle()
+screen.bgcolor("lightgreen")
+turtle.setheading(-90)
+turtle.forward(90)
+turtle.setheading(-180)
+turtle.forward(90)
+turtle.setheading(-270)
+turtle.forward(90)
+turtle.setheading(-360)
+turtle.forward(90)
+turtle.setheading(120)
+turtle.forward(90)
+turtle.setheading(-)
+turtle.forward(90)
